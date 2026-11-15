@@ -3,7 +3,7 @@
 # Layoffs Data Analysis Using SQL
 
 Project Overview
-This project focuses on cleaning, transforming, and exploring a layoffs dataset using MySQL.
+This project focuses on cleaning, transforming, and exploring a layoffs dataset different countries at different stages of investments from around the world using MySQL.
 
 The objective is to identify data quality issues, prepare the dataset for analysis, and discover meaningful insights about global company layoffs.
 
